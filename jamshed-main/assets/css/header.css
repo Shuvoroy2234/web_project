@@ -3,10 +3,11 @@
   background-color: rgba(228, 237, 245, 0.842); 
 }
 .hed_2{
-  transition: .2s;
+  
   color: #141212;
 }
 .hed_2:hover{
+  transition: .4s;
   color: #f77064;
 }
 .nav_2:hover{
