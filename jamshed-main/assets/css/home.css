@@ -49,13 +49,14 @@
     padding: 0;
 }
 .cat_item h4{
-    
+   
     position: absolute;
-    bottom: 10px;
-    left: 10px;
+    bottom: 40px;
+    left: 50px;
+    right: 50px;
 }
 .cat_item img{
-    width: 97%;
+    width: 98%;
     height: 500px;
 }
 @media (max-width: 992px){
